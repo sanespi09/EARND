@@ -12,4 +12,4 @@ Control your income/outcomes and make the best out of your money!
 
 
 ## CONTRIBUTORS 
-@FAdevv
+[Leporc](https://github.com/FAdevv)
