@@ -1,24 +1,15 @@
-# electron-vue
+# EARND 
+Personal finances administration app.  
+Control your income/outcomes and make the best out of your money!  
 
-## Project setup
-```
-npm install
-```
+## COMMANDS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### DEVELOPMENT LOCAL HOST
+    npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### ELECTRON BUILD 
+    npm run start
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## CONTRIBUTORS 
+@FAdevv
